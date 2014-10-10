@@ -1,6 +1,6 @@
 # OS X Status Bar Integration for Thyme
 
-This Gem adds OS X status bar integration to Thyme,
+This Gem adds OS X status bar integration to [Thyme](http://thymerb.com/),
 allowing you to always see the remaining time.
 
 ![Screenshot (hosted by imgur.com)](http://i.imgur.com/VICYfLF.png)
