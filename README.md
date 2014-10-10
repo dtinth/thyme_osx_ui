@@ -7,11 +7,11 @@ allowing you to always see the remaining time.
 
 This works by compiling an Objective-C code that simply displays the text passed via standard input on the status bar when you install the gem, so make sure you have `clang` installed.
 
-&nbsp;
+<br/>
 
 :mushroom::alien::cloud::octopus::snail::x::shoe::turtle::angel::trollface::umbrella::star2::bread::apple::rabbit::icecream::nose::tomato::elephant::gun::rabbit2::ant::tomato::icecream::octopus::nose::fish::octopus::rabbit::turtle::heart::yum::mailbox::eyeglasses::rabbit::bike:
 
-&nbsp;
+<br/>
 
 ## Installation and Usage
 
@@ -42,11 +42,11 @@ Now whenever you start a pomodoro with `thyme`, you should see a status bar item
 Clicking on it and selecting "void" will kill the pomodoro.
 
 
-&nbsp;
+<br/>
 
 :moon::angel::cat::octopus::snowman::x::sheep::trollface::angel::trollface::umbrella::star2::banana::angel::rabbit::icecream::nail_care::turtle::eyeglasses::ghost::rabbit2::angel::tomato::icecream::octopus::nose::floppy_disk::octopus::rabbit2::trollface::horse::yum::mushroom::eyes::rocket::balloon:
 
-&nbsp;
+<br/>
 
 Customization
 -------------
