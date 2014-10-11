@@ -25,6 +25,8 @@ gem install thyme_osx_ui
 Then, modify your `.thymerc` by adding `before`, `tick`, and `after` hooks as follows:
 
 ```ruby
+require 'thyme_osx_ui'
+
 before do
   $ui = ThymeOSX::UI.new
 end
